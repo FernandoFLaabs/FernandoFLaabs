@@ -9,6 +9,6 @@ Por isso iniciei o **Curso para Formação de Programadores** na [TecnoStart](ht
 -  Atualmente ainda exerço função na Hidrologia e sou trainee na [TecnoStart](https://github.com/tecno-start);
 - 📚📙📓Como projeto para um futuro bem próximo, quero atuar na programação com o aprendizado adquirido na [TecnoStart](https://www.linkedin.com/company/escolatecnostart/mycompany/).
  
- ## _Me ache_ 👇
-[![Linkedin Badge](https://img.shields.io/badge/FernandoLaabs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=v)](https://www.linkedin.com/in/fernando-f-6828553b/)
+ ## _Onde me achar_ 👇
+[![Linkedin Badge](https://img.shields.io/badge/FernandoFLaabs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=v)](https://www.linkedin.com/in/fernando-f-6828553b/)
 [![Instagram Badge](https://img.shields.io/badge/fefolaabs-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/fefolaabs_nageo/)](https://www.instagram.com/fefolaabs_nageo/)
