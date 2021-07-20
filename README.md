@@ -10,4 +10,4 @@ Por isso iniciei o **Curso para Formação de Programadores** na [TecnoStart](ht
 - 📚📙📓Como projeto para um futuro bem próximo, quero atuar na programação com o aprendizado adquirido na [TecnoStart](https://www.linkedin.com/company/escolatecnostart/mycompany/).
  
  ## _Me ache_ 👇
-[![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Laabs-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-f-6828553b//)](https://www.linkedin.com/in/fernando-f-6828553b/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Laabs-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-f-6828553b//)](https://www.linkedin.com/in/fernando-f-6828553b/) 
