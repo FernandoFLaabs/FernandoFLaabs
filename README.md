@@ -11,3 +11,4 @@ Por isso iniciei o **Curso para Formação de Programadores** na [TecnoStart](ht
  
  ## _Me ache_ 👇
 [![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Laabs-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-f-6828553b//)](https://www.linkedin.com/in/fernando-f-6828553b/) 
+[![Instagram badge](https://img.shields.io/badge/FefoLaabs-E4405F?style=for-the-badge&logo=instagram&logoColor=white=https://www.instagram.com/fefolaabs_nageo/)](https://www.instagram.com/fefolaabs_nageo/)
