@@ -1,16 +1,14 @@
-### Hi there 👋
+# Fernando Figueiredo Laabs 🤟
+Eaí... Então, atuando desde 2009 na área ambiental, mais especificamente com hidrologia💧 e geografia🌎, resolvi mudar para a área de **Programação**! Trabalhando com equipamentos automáticos de coleta de dados Hidrometeorológicos e softwares abertos de [geoprocessamento](https://pt.wikipedia.org/wiki/Geoprocessamento) (como o Quantum GIS) que usam de linguagens de _Programação_ para executar comandos ou criar novas ferramentas, acabei despertando o interesse pela programação... 🖥️
 
-<!--
-**FernandoFLaabs/FernandoFLaabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Então, Resumindo:*
+### Quero ser um programador!👊
 
-Here are some ideas to get you started:
+Por isso iniciei o **Curso para Formação de Programadores** na [TecnoStart](https://github.com/tecno-start). 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Atualmente ainda exerço função na Hidrologia e sou trainee na [TecnoStart](https://github.com/tecno-start);
+- 📚📙📓Como projeto para um futuro bem próximo, quero atuar na programação com o aprendizado adquirido na [TecnoStart](https://www.linkedin.com/company/escolatecnostart/mycompany/).
+ 
+ ## _Me ache_ 👇
+```markdown
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-f-6828553b/)](https://www.linkedin.com/in/fernando-f-6828553b/)
