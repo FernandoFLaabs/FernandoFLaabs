@@ -4,10 +4,8 @@ Eaí... Então, atuando desde 2009 na área ambiental, mais especificamente com 
 *Então, Resumindo:*
 ### Quero ser um programador!👊
 
-Por isso iniciei o **Curso para Formação de Programadores** na [TecnoStart](https://github.com/tecno-start). 💻
 
--  Atualmente ainda exerço função na Hidrologia e sou trainee na [TecnoStart](https://github.com/tecno-start);
-- 📚📙📓Como projeto para um futuro bem próximo, quero atuar na programação com o aprendizado adquirido na [TecnoStart](https://www.linkedin.com/company/escolatecnostart/mycompany/).
+- 📚📙📓Como projeto para um futuro bem próximo, quero atuar na programação com o aprendizado adquirido no Curso Técnico em Desenvolvimento de Sistemas que estou cursando pelo SENAI.
  
  ## _Onde me achar_ 👇
 [![Linkedin Badge](https://img.shields.io/badge/FernandoFLaabs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=v)](https://www.linkedin.com/in/fernando-f-6828553b/)
